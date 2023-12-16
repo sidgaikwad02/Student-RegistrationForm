@@ -1,3 +1,3 @@
 # Student-RegistrationForm
-This is simple student registration form created using HTML & CSS.
+This is Basic student registration form created using HTML.
 Hope you like it :)
